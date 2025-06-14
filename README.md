@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💻 I am Shourov Gharami
 
-### 👨‍💻 Aspiring Full-Stack Developer | QA Engineer | Passionate About Clean Code & Reliable Software
+### 👨‍💻 Aspiring Full-Stack Developer | QA Engineer | Passionate About Clean Code & Reliable Software Solution
 
 📍 Dhaka, Bangladesh
 📧 [engineer.shourovgharami@gmail.com](mailto:engineer.shourovgharami@gmail.com)
