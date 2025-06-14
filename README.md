@@ -103,6 +103,15 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat\&logo=postgresql)
 
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
 ### 🧪 SQA Tools
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat\&logo=selenium)
