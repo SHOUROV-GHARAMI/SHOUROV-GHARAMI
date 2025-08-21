@@ -77,7 +77,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 # 👨‍💻 I am Shourov Gharami
 
-### 💡 Full-Stack Developer | QA Engineer | Clean Code & Quality-Driven
+### 💡 Full-Stack Developer | Clean Code & Quality-Driven
 
 📍 Dhaka, Bangladesh
 📧 [engineer.shourovgharami@gmail.com](mailto:engineer.shourovgharami@gmail.com)
