@@ -128,7 +128,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -137,6 +137,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 </p>
 
 ---
+-->
 
 ## 🔗 Connect With Me
 
