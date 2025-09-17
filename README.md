@@ -111,7 +111,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-
+<!--
 ### 🧪 SQA Tools
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat\&logo=selenium)
@@ -120,7 +120,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat\&logo=apachejmeter)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?style=flat\&logo=owasp)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat\&logo=jira)
-
+-->
 ### 🧠 Others
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
