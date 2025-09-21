@@ -97,7 +97,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=nextdotjs)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat\&logo=express)
+<!--![Express](https://img.shields.io/badge/-Express.js-000000?style=flat\&logo=express) -->
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat\&logo=django)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat\&logo=spring-boot)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb)
@@ -109,7 +109,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+<!-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white) -->
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 <!--
 ### 🧪 SQA Tools
