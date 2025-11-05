@@ -84,7 +84,7 @@ I enjoy solving complex problems and creating meaningful digital solutions that 
 </p>
 
 ---
-
+<!--
 ## 🧩 Featured Projects  
 
 | 💡 Project | 📝 Description | 🛠 Tech Stack |
@@ -93,7 +93,7 @@ I enjoy solving complex problems and creating meaningful digital solutions that 
 | 📝 **Real-Time Docs** | Collaborative document editor with live updates | Next.js · Express · MongoDB · Socket.IO |
 | 🛒 **ShopSmart** | Full-featured e-commerce platform with cart & checkout | React · Node.js · MySQL |
 | 🌐 **Portfolio** | Personal website showcasing my work & achievements | HTML · CSS · Bootstrap |
-
+-->
 ---
 
 ## 🤝 Let’s Connect  
