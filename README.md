@@ -11,13 +11,11 @@
 
 ## 🚀 About Me  
 
-I am a **Professional Software Engineer** dedicated to building **modern**, **scalable**, and **high-performance** web applications.  
-My primary focus lies in **backend development**, designing **secure APIs**, and architecting **efficient server-side systems** that deliver seamless user experiences.  
+I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using Python (Django, FastAPI) and C# (.NET, MVC/Core) while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
 
-With hands-on experience in **Python**, **C#**, **.NET**, and **JavaScript** ecosystems, I develop **maintainable**, **robust**, and **cleanly architected** solutions following **MVC/MVT patterns** and **modular design principles**.  
+My work emphasizes clean architecture, efficient API design, and database optimization using MySQL, PostgreSQL, MS SQL, MongoDB, and Oracle. I also enjoy solving complex challenges with automation, DevOps tools (Docker, CI/CD), and web scraping.
 
-I’m passionate about crafting software that is **professionally designed**, **technically sound**, and **future-ready**, leveraging **modern development tools**, **clean architecture**, and **DevOps practices**.  
-I thrive on **continuous learning**, **collaboration**, and solving **complex technical challenges**. 🌐💻
+Driven by continuous learning, I love contributing to projects that combine modern technology, logical problem-solving, and real-world impact. I’m always open to collaborations, innovative ideas, or backend-heavy projects where I can contribute to reliable and maintainable systems.
 
 ---
 
