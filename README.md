@@ -5,17 +5,16 @@
 📍 Dhaka, Bangladesh  
 📧 [shourovgharami222@gmail.com](mailto:shourovgharami222@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shourov-gharami-624a96206/)  
-🐙 [GitHub](https://github.com/SHOUROV-GHARAMI)
 
 ---
 
 ## 🚀 About Me  
 
-I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using C# (.NET, MVC/Core), Python (Django, FastAPI) and PHP (Laravel)  while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
+I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using C# (.NET, MVC/Core), Python (Django, FastAPI), and PHP (Laravel)  while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
 
-My work emphasizes clean architecture, efficient API design, and database optimization using MySQL, PostgreSQL, MS SQL, MongoDB, and Oracle. I also enjoy solving complex challenges with automation, DevOps tools (Docker, CI/CD), and web scraping.
+My work emphasizes clean architecture, efficient API design, and database optimization using MySQL, PostgreSQL, MS SQL, MongoDB, and Oracle. I also enjoy solving complex challenges with automation, DevOps tools, and web scraping.
 
-Driven by continuous learning, I love contributing to projects that combine modern technology, logical problem-solving, and real-world impact. I’m always open to collaborations, innovative ideas, or backend-heavy projects where I can contribute to reliable and maintainable systems.
+Driven by continuous learning, I love contributing to projects that combine modern technology, logical problem-solving, and real-world impact. I’m always open to collaborations, innovative ideas, or backend-heavy projects where I can contribute to the development of reliable and maintainable systems.
 
 ---
 
@@ -36,16 +35,16 @@ Driven by continuous learning, I love contributing to projects that combine mode
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🗄 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ### ⚙ Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -70,8 +69,7 @@ Driven by continuous learning, I love contributing to projects that combine mode
 - API Development & Integration: RESTful APIs, JSON, CRUD Operations  
 - DevOps & Tools: Git, GitHub, Docker, CI/CD  
 - Software Design: MVC/MVT, Layered Architecture, Modular Code  
-- Problem Solving: Debugging, Optimizing, Refactoring, Performance Tuning  
-- Web Automation: Web Scraping, Data Parsing, API Integration
+- Problem Solving: Debugging, Optimizing, Refactoring, Performance Tuning 
 
 ---
 
