@@ -11,7 +11,7 @@
 
 ## 🚀 About Me  
 
-I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using Python (Django, FastAPI) and C# (.NET, MVC/Core) while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
+I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using C# (.NET, MVC/Core), Python (Django, FastAPI) and PHP (Laravel)  while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
 
 My work emphasizes clean architecture, efficient API design, and database optimization using MySQL, PostgreSQL, MS SQL, MongoDB, and Oracle. I also enjoy solving complex challenges with automation, DevOps tools (Docker, CI/CD), and web scraping.
 
@@ -60,7 +60,7 @@ Driven by continuous learning, I love contributing to projects that combine mode
 
 ## 🧩 Skills Summary
 
-- Backend Development: Python, FastAPI, Django, C#, .NET  
+- Backend Development: C#, .NET, Python, FastAPI, Django, PHP, Laravel
 - Frontend Development: React, Angular, JavaScript, HTML, CSS, Tailwind  
 - Database Management: MySQL, PostgreSQL, MS SQL, Oracle, MongoDB  
 - API Development & Integration: RESTful APIs, JSON, CRUD Operations  
@@ -74,5 +74,4 @@ Driven by continuous learning, I love contributing to projects that combine mode
 ## 📫 Connect With Me
 
 📧 Email: [shourovgharami222@gmail.com](mailto:shourovgharami222@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/shourov-gharami-624a96206](https://www.linkedin.com/in/shourov-gharami-624a96206/)  
-🐙 GitHub: [github.com/SHOUROV-GHARAMI](https://github.com/SHOUROV-GHARAMI)
+🔗 LinkedIn: [linkedin.com/in/shourov-gharami-624a96206](https://www.linkedin.com/in/shourov-gharami-624a96206/) 
