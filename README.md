@@ -29,7 +29,7 @@ Driven by continuous learning, I love contributing to projects that combine mode
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
-[![Laravel](img.shields.io)](https://laravel.com)
+![Laravel](img.shields.io)
 
 
 ### 🌐 Frontend
