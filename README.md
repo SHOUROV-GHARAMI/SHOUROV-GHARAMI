@@ -22,11 +22,15 @@ Driven by continuous learning, I love contributing to projects that combine mode
 ## 💻 Tech Stack
 
 ### 🔧 Backend
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
+[![Laravel](img.shields.io)](https://laravel.com)
+
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
