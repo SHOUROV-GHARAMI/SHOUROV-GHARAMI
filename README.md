@@ -1,6 +1,6 @@
 # 👨‍💻 Shourov Gharami
 
-### Professional Software Engineer | Backend-Focused | Full-Stack Developer
+### Professional Software Engineer Developer
 
 📍 Dhaka, Bangladesh  
 📧 [shourovgharami222@gmail.com](mailto:shourovgharami222@gmail.com)  
@@ -12,7 +12,7 @@
 
 I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using C# (.NET, MVC/Core), Python (Django, FastAPI), and PHP (Laravel)  while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
 
-My work emphasizes clean architecture, efficient API design, and database optimization using MySQL, PostgreSQL, MS SQL, MongoDB, and Oracle. I also enjoy solving complex challenges with automation, DevOps tools, and web scraping.
+My work emphasizes clean architecture, efficient API design, and database optimization using MS SQL, MySQL, PostgreSQL, MongoDB, etc. I also enjoy solving complex challenges with automation, DevOps tools, and web scraping.
 
 Driven by continuous learning, I love contributing to projects that combine modern technology, logical problem-solving, and real-world impact. I’m always open to collaborations, innovative ideas, or backend-heavy projects where I can contribute to the development of reliable and maintainable systems.
 
