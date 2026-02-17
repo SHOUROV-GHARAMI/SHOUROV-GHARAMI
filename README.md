@@ -1,6 +1,6 @@
 # 👨‍💻 Shourov Gharami
 
-### Professional Software Engineer Developer
+### Professional Software Developer
 
 📍 Dhaka, Bangladesh  
 📧 [shourovgharami222@gmail.com](mailto:shourovgharami222@gmail.com)  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using C# (.NET, MVC/Core), Python (Django, FastAPI), and PHP (Laravel)  while maintaining strong skills in JavaScript frameworks like React, Next.js, and Angular.
+I’m Shourov Gharami, a passionate Software Engineer and Full-Stack Web Developer focused on building scalable, secure, and high-performance applications. I specialize in backend development using C# (.NET, MVC/Core), Python (Django, FastAPI), while maintaining strong skills in JavaScript frameworks like Angular, React, and Next.js.
 
 My work emphasizes clean architecture, efficient API design, and database optimization using MS SQL, MySQL, PostgreSQL, MongoDB, etc. I also enjoy solving complex challenges with automation, DevOps tools, and web scraping.
 
@@ -27,9 +27,10 @@ Driven by continuous learning, I love contributing to projects that combine mode
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+<!-- 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
+ -->
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -56,14 +57,13 @@ Driven by continuous learning, I love contributing to projects that combine mode
 - MVC / MVT
 - REST API / CRUD API
 - Modular & Layered Architecture
-- Web Scraping & Automation
 - Scalable & maintainable code design
 
 ---
 
 ## 🧩 Skills Summary
 
-- Backend Development: C#, .NET, Python, FastAPI, Django, PHP, Laravel
+- Backend Development: C#, .NET, Python, FastAPI, Django, <!--  PHP, Laravel  -->
 - Frontend Development: React, Angular, JavaScript, HTML, CSS, Tailwind  
 - Database Management: MySQL, PostgreSQL, MS SQL, Oracle, MongoDB  
 - API Development & Integration: RESTful APIs, JSON, CRUD Operations  
